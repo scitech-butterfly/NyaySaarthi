@@ -4,11 +4,7 @@ llama_hub
 accelerate
 pyngrok
 chromadb
-pandas 
-faiss-cpu 
 sentence-transformers 
 transformers 
 langchain-community
 fastapi 
-uvicorn
-protobuf
